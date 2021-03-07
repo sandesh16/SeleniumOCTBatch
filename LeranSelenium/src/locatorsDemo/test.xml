@@ -1,0 +1,9 @@
+<HTML>
+<body>
+<div id="Pancake">
+<button type ="button"  name="Pancake" value ="Blueberry">blueberry </button>
+<button type ="button"  name="Pancake" value ="Banna">banana </button>
+<button type ="button"  name="Pancake" value ="Straweberry">straweberry </button>
+</div>
+</body>
+</HTML>
